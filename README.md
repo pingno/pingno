@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Peang Ngo
+### Hi there 👋! My name is Peang Ngo
 
 [My Portfolio](https://github.com/pingno/pingno.github.io)
 
@@ -19,6 +19,27 @@
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+## About Me :
+ * I'm growing as a software Engineer and proud to have created these fullstack applications:
+
+
+Parmazon-Prime:
+[Github Repo](https://github.com/sophie97yang/Parmazon-Prime)
+[Render Site Link](https://parmazon-prime.onrender.com/)
+
+Dayze:
+[Github Repo](https://github.com/pingno/Capstone-Project)
+[Render Site Link](https://dayze.onrender.com/)
+
+SkyBnB:
+[Github Repo](https://github.com/pingno/API-Project)
+[Render Site Link](https://peang-api-project.onrender.com/)
+
+
+
+
+
 
 <!--
 **pingno/pingno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
