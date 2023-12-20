@@ -38,6 +38,14 @@ Let's build a future where technology and compassion coexist harmoniously! ✨
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pingno&show_icons=true&locale=en&layout=compact" alt="pingno" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pingno&show_icons=true&locale=en" alt="pingno" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pingno&" alt="pingno" /></p>
+
+
 ## About Me :
  * I'm growing as a software Engineer and proud to have created these fullstack applications:
 
