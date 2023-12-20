@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Peang!
 
-Certainly! Crafting a compelling GitHub bio is a great way to express your values and passion for software development. Here's a suggestion based on what you provided:
-
 🚀 Building for Impact
 
 Hey there! 👋 I'm [Your Name], and I'm on a journey to merge my passion for technology with a deep-seated desire to make a positive impact. My values have always revolved around cultivating a skillset that serves others—whether it's enhancing lives, fueling creative endeavors, or streamlining business processes.
