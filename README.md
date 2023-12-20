@@ -47,7 +47,7 @@ Let's build a future where technology and compassion coexist harmoniously! ✨
 
 
 ## About Me :
- * I'm growing as a software Engineer and proud to have created these fullstack applications:
+ * I'm growing as a Software Engineer and I'm proud to have created these full-stack applications:
 
 
 Parmazon-Prime:
