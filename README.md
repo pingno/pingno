@@ -2,7 +2,7 @@
 
 🚀 Building for Impact
 
-Hey there! 👋 I'm [Your Name], and I'm on a journey to merge my passion for technology with a deep-seated desire to make a positive impact. My values have always revolved around cultivating a skillset that serves others—whether it's enhancing lives, fueling creative endeavors, or streamlining business processes.
+I'm on a journey to merge my passion for technology with a deep-seated desire to make a positive impact. My values have always revolved around cultivating a skillset that serves others—whether it's enhancing lives, fueling creative endeavors, or streamlining business processes.
 
 🌱 Tech Enthusiast & Developer-in-the-Making
 
