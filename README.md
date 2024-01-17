@@ -1,4 +1,4 @@
-## Hi 👋, I'm Peang!
+## Hi there 👋, I'm Peang!
 
 🚀 Building for Impact
 
@@ -35,8 +35,8 @@ Let's build a future where technology and compassion coexist harmoniously! ✨
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peang-ngo-840860112/)
+
 
 
 ## About Me :
